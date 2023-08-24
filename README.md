@@ -1,4 +1,4 @@
-# CartesianCoord2DirectCoordConvert
+# PyC2DConvert
 # Cartesian Coordinates (XYZ) to Direct (Fractional) Converter
 
 A Python script (with an example file) is provided to convert the **Cartesian** coordinates into **Direct (Fractional)** coordinates. 
